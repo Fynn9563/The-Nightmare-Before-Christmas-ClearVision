@@ -1,0 +1,18 @@
+{
+  "id": "dev.replugged.TheNightmareBeforeChristmasClearVision",
+  "name": "The Nightmare Before Christmas ClearVision",
+  "description": "A highly customizable theme for Replugged.",
+  "author": {
+    "name": "Fynn#9563",
+    "discordID": "379455429627084801",
+    "github": "Fynn9563 "
+  },
+  "version": "6.3.0",
+  "updater": {
+    "type": "github",
+    "id": "Fynn9563/The-Nightmare-Before-Christmas-ClearVision"
+  },
+  "license": "MIT",
+  "type": "replugged-theme",
+  "main": "src/main.css"
+}
